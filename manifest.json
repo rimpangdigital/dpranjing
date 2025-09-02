@@ -1,7 +1,7 @@
 {
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
+ "theme_color": "#FF6699",
+ "background_color": "#FF6699",
  "start_url": "index.htm?installed=true",
  "name": "reset",
  "icons": [
