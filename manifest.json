@@ -1,9 +1,9 @@
 {
- "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF",
  "display": "fullscreen",
- "name": "reset",
  "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
+ "name": "reset",
  "icons": [
   {
    "src": "misc/icon150.png",
